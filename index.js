@@ -18,5 +18,5 @@
  }
  
   function inc(n) {
-   return ()
+   return (a += 1)
  } 
