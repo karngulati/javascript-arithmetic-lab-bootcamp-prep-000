@@ -17,4 +17,6 @@
    return (a / b)
  }
  
- 
+  function inc(n) {
+   return ()
+ } 
