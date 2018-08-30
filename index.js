@@ -17,11 +17,11 @@
    return (a / b)
  }
  
-  function inc(n) {
+  function inc(a) {
    return (a += 1)
  } 
  
-   function dec(n) {
+   function dec(a) {
    return (a -= 1)
  } 
  
