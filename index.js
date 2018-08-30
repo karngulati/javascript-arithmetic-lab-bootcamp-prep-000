@@ -29,6 +29,3 @@
    return parseInt ('a', 10)
  } 
  
-    function makeInt('0x2328') {
-   return parseInt ('n', 10) 
- } 
